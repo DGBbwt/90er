@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"..\/2000er\/map.json"
+                 "value":"..\/aufzug\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
