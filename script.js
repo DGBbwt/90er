@@ -1,9 +1,3 @@
-<!doctype html>
-<html lang="en">
-    <head>
-        <script src="https://play.workadventu.re/iframe_api.js"></script>
-    </head>
-    <body>
 let helloWorldPopup;
 
 // Open the popup when we enter a given zone
@@ -22,5 +16,3 @@ helloWorldPopup = WA.onEnterZone('myZone', () => {
 WA.onLeaveZone('myZone', () => {
     helloWorldPopup.close();
 });
-    </body>
-</html>
